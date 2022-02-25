@@ -1,0 +1,53 @@
+{
+    "deflections": {
+        "AX": 0.0,
+        "AX(CDD)": 0.0,
+        "H1": 0.0,
+        "H1(CDD)": 0.0,
+        "H2": 0.0,
+        "H2(CDD)": 0.0,
+        "L1": 0.0,
+        "L1(CDD)": 0.0,
+        "L2": 0.0,
+        "L2(CDD)": 0.0
+    },
+    "gains": {
+        "AX": 0.01185,
+        "AX(CDD)": 0.0,
+        "H1": 0.10484,
+        "H1(CDD)": 0.0,
+        "H2": 1.0,
+        "H2(CDD)": 0.0,
+        "L1": 0.9831,
+        "L1(CDD)": 0.0,
+        "L2": 1.0,
+        "L2(CDD)": 0.0
+    },
+    "settings": {
+        "deflection": {},
+        "magnet": {
+            "mftable": "argon"
+        },
+        "source": {
+            "electron_energy": 119.95,
+            "extraction_focus": 0.0,
+            "extraction_lens": 59.46,
+            "extraction_symmetry": -1.98,
+            "flatapole": -2.0,
+            "hv": 9900.0,
+            "ion_repeller": -6.4,
+            "rotation_quad": 0.0,
+            "vertical_deflection_n": 65.2,
+            "vertical_deflection_s": 34.5,
+            "y_symmetry": 36.26
+        },
+        "trap": {
+            "current": 200.0,
+            "ramp_period": 1.0,
+            "ramp_step": 2.0,
+            "ramp_tolerance": 25.0,
+            "voltage": 47.6
+        }
+    },
+    "spectrometer": {}
+}
